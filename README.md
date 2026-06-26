@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Capture d’écran du 2026-06-26 21-26-44" src="https://github.com/user-attachments/assets/f21d923b-3e54-46b9-811b-666c488536d1" />
 # 🌐 CCNA2 — Inter-VLAN Routing SVI | AfricaTech
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA2-blue?style=for-the-badge&logo=cisco&logoColor=white)
@@ -451,6 +450,9 @@ write
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=flat-square&logo=ubuntu)
 
 ---
+## 🖼️ Captures du TP
+
+<img width="1920" height="1080" alt="Capture d’écran du 2026-06-26 21-26-44" src="https://github.com/user-attachments/assets/f21d923b-3e54-46b9-811b-666c488536d1" />
 
 ## 👨‍💻 Auteur
 
